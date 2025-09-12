@@ -78,12 +78,12 @@ Here are some ideas to get you started:
 
 ### 🖼️ Portfolio
 
-| Project                                            | Role                | Technology / Tools        | Year      | Link                                        |
-| -------------------------------------------------- | ------------------- | ------------------------- | --------- | ------------------------------------------- |
-| Sistem Informasi Perpustakaan UNUSIA               | Fullstack Developer | CodeIgniter 4, MySQL      | 2023      | [ View](https://perpustakaan.unusia.ac.id/) |
-| CMS Datun (Perdata dan Tata Usaha Negara)          | Developer & Support | Yii2, PostgreSQL          | 2023–2024 | [ View](https://cms-datun.kejaksaan.go.id/) |
-| Sistem Buku Penetapan Angka Kredit (SIBUPAK)       | Module Developer    | CodeIgniter 4, PostgreSQL | 2022–2023 | _Private Project_                           |
-| Aplikasi PMS (Planned Maintenance System) PT PELNI | Module Developer    | CodeIgniter 4, PostgreSQL | 2020–2021 | [ View](https://pms.pelni.co.id/)           |
+| Project                                            | Role                | Technology / Tools        | Year      |
+| -------------------------------------------------- | ------------------- | ------------------------- | --------- |
+| Sistem Informasi Perpustakaan UNUSIA               | Fullstack Developer | CodeIgniter 4, MySQL      | 2023      |
+| CMS Datun (Perdata dan Tata Usaha Negara)          | Developer & Support | Yii2, PostgreSQL          | 2023–2024 |
+| Sistem Buku Penetapan Angka Kredit (SIBUPAK)       | Module Developer    | CodeIgniter 4, PostgreSQL | 2022–2023 |
+| Aplikasi PMS (Planned Maintenance System) PT PELNI | Module Developer    | CodeIgniter 4, PostgreSQL | 2020–2021 |
 
 ---
 
