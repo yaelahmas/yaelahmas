@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - **Freelance Web Developer** _(2023 – Sekarang)_
 
-  - Mengembangkan berbagai aplikasi web full-stack untuk menggunakan framework **CodeIgniter 4** / **Laravel** dengan database **MySQL**.
+  - Mengembangkan berbagai aplikasi web full-stack menggunakan framework **CodeIgniter 4** / **Laravel** dengan database **MySQL**.
   - Merancang dan membangun **dashboard admin dinamis**, serta mengimplementasikan fitur **CRUD** sesuai kebutuhan.
   - Fokus pada pengembangan sistem yang **aman**, **mudah dikelola**, dan **sesuai dengan kebutuhan operasional**.
 
