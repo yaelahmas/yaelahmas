@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
   - **Tim CMS Datun (Perdata dan Tata Usaha Negara)**
     - Mengembangkan **modul master data** untuk Aplikasi **CMS Datun** menggunakan framework **Yii 2** dan database **PostgreSQL**.
-    - Melakukan **perbaikan modul** serta mendampingi pelatihan teknis (**BIMTEK**) bagi pengguna instansi pemerintah.
+    - Melakukan **perbaikan modul** serta mendampingi pelatihan teknis (**BIMTEK**) bagi pengguna.
   - **Tim SIBUPAK (Sistem Buku Penetapan Angka Kredit)**
-    - Merancang dan membangun **modul master data** untuk Aplikasi **SIBUPAK** menggunakan **CodeIgniter 4** dan database **PostgreSQL**.
+    - Merancang dan membangun **modul master data** untuk Aplikasi **SIBUPAK** menggunakan framework **CodeIgniter 4** dan database **PostgreSQL**.
 
 - **Junior Programmer | PT Sucofindo** _(2020 – 2021)_
 
