@@ -86,16 +86,10 @@ Here are some ideas to get you started:
 | Proyek                                             | Peran               | Teknologi / Tools         | Tahun       | Tautan                                                  |
 | -------------------------------------------------- | ------------------- | ------------------------- | ----------- | ------------------------------------------------------- |
 | Website Company Profile PT Logica World            | Fullstack Developer | Laravel, MySQL            | 2025        | [Development](https://logicaworld.infinityfreeapp.com/) |
-| Sistem Informasi Perpustakaan UNUSIA               | Fullstack Developer | CodeIgniter 4, MySQL      | 2024 – 2025 | [Production](https://perpustakaan.unusia.ac.id/)        |
+| Sistem Informasi Perpustakaan UNUSIA               | Fullstack Developer | CodeIgniter 4, MySQL      | 2024 – 2025 | [Production](https://perpustakaan.unusia.ac.id/) [Development](https://demo-unusialibrary.mandresyahli.my.id/)       |
 | CMS Datun (Perdata dan Tata Usaha Negara)          | Developer & Support | Yii2, PostgreSQL          | 2023 – 2024 | Private (Instansi Pemerintah)                           |
 | Sistem Buku Penetapan Angka Kredit (SIBUPAK)       | Module Developer    | CodeIgniter 4, PostgreSQL | 2022 – 2023 | Private (Instansi Pemerintah)                           |
 | Aplikasi PMS (Planned Maintenance System) PT PELNI | Module Developer    | CodeIgniter 4, PostgreSQL | 2020 – 2021 | Private (Instansi Pemerintah)                           |
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaelahmas&theme=onedark&show_icons=true&hide_border=false&count_private=false) ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaelahmas&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
